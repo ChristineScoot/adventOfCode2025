@@ -1,4 +1,4 @@
-import Day1.Day1;
+import Solutions.Day1;
 import org.junit.Test;
 
 import java.io.IOException;
